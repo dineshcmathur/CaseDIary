@@ -1,4 +1,5 @@
-import React from 'react';
+npm install
+  import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import Login from './Login';
 import Form from './Form';
