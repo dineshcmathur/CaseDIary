@@ -1,3 +1,4 @@
+npm install
 import React from 'react';
 import { auth, db, storage } from './firebase';
 import { addDoc, collection } from 'firebase/firestore';
