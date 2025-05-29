@@ -1,4 +1,5 @@
-const functions = require('firebase-functions');
+npm install
+  const functions = require('firebase-functions');
 const admin = require('firebase-admin');
 const language = require('@google-cloud/language');
 admin.initializeApp();
