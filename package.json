@@ -1,3 +1,4 @@
+npm install
 {
   "name": "functions",
   "dependencies": {
@@ -5,4 +6,5 @@
     "firebase-functions": "^4.0.0",
     "@google-cloud/language": "^4.0.0"
   }
+
 }
