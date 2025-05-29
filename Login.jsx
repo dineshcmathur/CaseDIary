@@ -1,4 +1,5 @@
-import React from 'react';
+npm install
+  import React from 'react';
 import { auth } from './firebase';
 import { signInWithEmailAndPassword } from 'firebase/auth';
 
